@@ -1,4 +1,4 @@
-# Movie Watchlist App STAT 311
+# Movie Watchlist App
 •	Built a movie watchlist app (Python Tkinter + MySQL) where users create personal watchlists, search and filter films, and leave ratings and reviews.
 •	Designed the normalised relational database (ER modelling, primary/foreign keys, CRUD and complex SQL queries) and ran it on a LAMP stack in a virtualised Linux environment, connected to the app via PyMySQL.
 
